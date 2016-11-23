@@ -1,6 +1,7 @@
 ---
 layout: page
 title: presentations
+description: Brian M. Bot's presentations
 permalink: /presentations/
 ---
 

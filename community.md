@@ -1,6 +1,7 @@
 ---
 layout: page
 title: community
+description: Brian M. Bot's community activities
 permalink: /community/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: publications
+description: Brian M. Bot's publications
 permalink: /publications/
 ---
 
