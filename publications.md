@@ -24,7 +24,7 @@ This is a personally curated list of my peer-reviewed publications. Other source
 ### The rest of the best (rev. chronological order)
 
 {% for pub in site.data.pubRest %}
-- {{ pub.authors }}. *{{ pub.title }}*. <u>{{ pub.journal }}</u>. {{ pub.year }}. [doi{{ pub.doi }}](https://doi.org/{{ pub.doi }})
+- {{ pub.authors }}. *{{ pub.title }}*. <u>{{ pub.journal }}</u>. {{ pub.year }}. [doi:{{ pub.doi }}](https://doi.org/{{ pub.doi }})
 {% endfor %}
 
 ***
