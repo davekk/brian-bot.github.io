@@ -12,7 +12,7 @@ permalink: /about/
 <br>
 
 ### professional life
-My days are spent as Principal Scientist in Computational Oncology and Community Manager for mobile and technology platforms at [Sage Bionetworks](http://www.sagebase.org). Previously, I worked for seven years as a statistician at the [Mayo Clinic](http://www.mayoclinic.org/) primarily in cancer clinical trials and cancer genomics. I have extensive experience working with clinical and genomic data and have long had a passion for exploring innovative ways to make science more open and transparent. My current work involves both innovative research in computational oncology as well as serving as a bridge between biomedical researchers and technology development.
+My days are spent as Principal Scientist and Head of Outreach and Strategic Development at [Sage Bionetworks](http://www.sagebase.org). Previously, I worked for seven years as a statistician at the [Mayo Clinic](http://www.mayoclinic.org/) primarily in cancer clinical trials and cancer genomics. I have extensive experience working with clinical and genomic data and have long had a passion for exploring innovative ways to make science more open and transparent. My current work involves both innovative research in computational oncology as well as serving as a bridge between biomedical researchers and technology development.
 
 I am an open science advocate and am involved in a number of national efforts to promote a research ecosystem where participants are treated as partners in the research process. I have also been an [invited speaker at a number of national and international events](/presentations) to share my experiences living at the intersection of biomedical research and technology.
 
