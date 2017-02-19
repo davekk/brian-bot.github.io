@@ -16,8 +16,6 @@ My days are spent as Principal Scientist and Head of Outreach and Strategic Deve
 
 I am an open science advocate and am involved in a number of national efforts to promote a research ecosystem where participants are treated as partners in the research process. I have also been an [invited speaker at a number of national and international events](/presentations) to share my experiences living at the intersection of biomedical research and technology.
 
-<img src="/images/whitehouse.jpg" alt="Brian at the White House" style="width:70%;display:block;margin-left:auto;margin-right:auto">
-
 ***
 ***
 <br>
