@@ -18,7 +18,7 @@ github_username:  brian-bot
 markdown: kramdown
 
 # For SEO optimization
-gems:
+plugins:
   - jekyll-seo-tag
 
 # Enable linking to header anchors
