@@ -24,3 +24,5 @@ plugins:
 # Enable linking to header anchors
 kramdown:
   auto_ids: true
+
+theme: jekyll-theme-hacker
