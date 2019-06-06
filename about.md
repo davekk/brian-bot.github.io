@@ -18,7 +18,7 @@ My current work aims to enhancing the understanding of the diversity and virulen
 races that infect finger millet,  to enable development of resistant varieties. 
 
 <img src="/images/Beca.jpeg" alt="Dave at the soft skill training for the Bioinformatics community of practice BECA-ILRI" style="width:70%;display:block;margin-left:auto;margin-right:auto">
-<div style="text-align: center"> <a href="https://www.flickr.com/photos/ter-burg/34236649351" target="_blank">photo</a> by <a href="https://www.flickr.com/photos/ter-burg/" target="_blank">Sebastiaan ter Burg</a> / <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC BY</a></div>
+
 
 ***
 ***
