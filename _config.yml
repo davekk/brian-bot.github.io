@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: brian m. bot
-email: brian.bot@sagebase.org
-description1: open science advocate
-description2: community builder
+title: davies k kaimenyi
+email: kika.dave@gmail.com
+description1: Research fellow
+
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: BrianMBot
-github_username:  brian-bot
+twitter_username: kika_dave
+github_username:  davekk
 
 # Build settings
 markdown: kramdown
