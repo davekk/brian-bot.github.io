@@ -14,7 +14,7 @@ My days are spent as a pre-doctoral intern at [The Sainsbury Laboratory](http://
 My current work aims to enhancing the understanding of the diversity and virulence of pathogen races of the blast fungus *Magnaporthe orzyae* in Eastern Africa, specifically those races that infect finger millet,  to enable development of resistant varieties. 
 
 <img src="/images/Beca.jpeg" alt="Scientific soft skill training for the Bioinformatics community of practice BECA-ILRI" style="width:70%;display:block;margin-left:auto;margin-right:auto">
-
+<h5><p style="text-align: center;"><i>Technovation National Pitch 2017</i></p></h5>
 ***
 ***
 <br>
