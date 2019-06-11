@@ -15,14 +15,12 @@ My current work aims to enhancing the understanding of the diversity and virulen
 
 <img src="/images/Beca.jpeg" alt="Scientific soft skill training for the Bioinformatics community of practice BECA-ILRI" style="width:70%;display:block;margin-left:auto;margin-right:auto">
 <h5><p style="text-align: center;"><i>Scientific soft skill training for the Bioinformatics community of practice BECA-ILRI</i></p></h5>
-***
-***
+
 <br>
 
 ### personal life
 When not consumed by the 'academic life' above, I enjoy traveling, watching movies, swimming and playing Tae-kwon-do. If you catch me at a tournament [you will often see me](/images/Taekwondo.jpeg) still in my uniform. That's just how I roll.
 
 <img src="/images/Tourist.jpeg" alt="Hanging with Vervet monkey in Gede Ruins, Kenya" style="width:70%;display:block;margin-left:auto;margin-right:auto">
+<h5><p style="text-align: center;"><i>Hanging with Vervet monkey in Gede Ruins, Kenya</i></p></h5>
 
-***
-***
