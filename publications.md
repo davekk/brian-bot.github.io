@@ -14,8 +14,7 @@ This is a personally curated list of my publications. Other sources include [Goo
 ### Personal top 10 list (rev. chronological order)
 
 {% for pub in site.data.publications %}
-- {{ pub.authors }}. {{ pub.year }}. *{{ pub.title }}*. <u>{{ pub.journal }}</u>.  [doi:{{ pub.doi }}](https://doi.org/{{ pub.doi }})
+- {{ pub.authors }}. *{{ pub.title }}*. <u>{{ pub.journal }}</u>. {{ pub.year }}. [doi:{{ pub.doi }}](https://doi.org/{{ pub.doi }})
 {% endfor %}
-
 ***
 ***
